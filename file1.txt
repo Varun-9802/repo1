@@ -1,2 +1,2 @@
 writing file1 in remote repository
-changes done in remote repository
+conflicts solved
