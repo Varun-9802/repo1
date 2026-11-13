@@ -1,2 +1,0 @@
-writing file1 in remote repository
-conflicts solved
